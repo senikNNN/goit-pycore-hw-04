@@ -1,0 +1,4 @@
+from colorama import Fore, Style
+
+print(Fore.RED + "Hellow, world" + Style.RESET_ALL)
+# print(Style.RESET_ALL)
